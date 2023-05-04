@@ -80,4 +80,4 @@ Possono iscriversi ai corsi e inviare domande ai docenti.
 |-----------------|-----------------|---------------|
 |Mario Rossi      |mario@example.com|Student1!      |
 
-> ...e ogni nuovo utente registrato sarà privo di ruolo.
+> ...e ogni nuovo utente registrato sarà privo di ruolo..
